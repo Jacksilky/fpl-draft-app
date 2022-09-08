@@ -1,0 +1,19 @@
+[{
+    "username": "non",
+    "firstName": "Burton",
+    "surname": "Fuller",
+    "address": { "houseNo":146, "addressOne":"Debevoise Avenue", "city":"Avalon", "county":"Maryland", "postcode": 5401, "country": "USA" },
+    "email": "burtonfuller@qiao.com",
+    "password": "voluptate",
+    "rating": 4
+},
+{
+    "username": "enim",
+    "firstName": "Chaney",
+    "surname": "Rush",
+    "address": { "houseNo":146, "addressOne":"Debevoise Avenue", "city":"Avalon", "county":"Maryland", "postcode": 5401, "country": "USA" },
+    "email": "chaneyrush@qiao.com",
+    "password": "magna",
+    "rating": 2
+}
+] 

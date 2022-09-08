@@ -1,0 +1,15 @@
+{
+    "proposer":{
+        "user": "6151f02d64ec4ca2e64f2910",
+        "items": [
+            "6140ca2bccffc166181e585f"
+        ]
+    },
+    "receiver":{
+        "user": "6151f098037f63e4d061a816",
+        "items": [
+            "6149ffc838a792e8656df550"
+        ]
+    },
+    "status": "open"
+}

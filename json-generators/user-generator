@@ -1,0 +1,12 @@
+[
+  '{{repeat(5, 7)}}',
+  {
+    username: '{{lorem(1, "words")}}',
+    firstName: '{{firstName()}}',
+    surname: '{{surname()}}',
+    address: '{ houseNo:{{integer(100, 999)}}, addressOne:{{street()}}, city:{{city()}}, county:{{state()}}}, postcode: {{integer(100, 10000)}}, country: USA }',
+    email: '{{email()}}',
+    password:'{{lorem(1, "words")}}',
+    rating: '{{integer(0, 5)}}'
+  }
+]
